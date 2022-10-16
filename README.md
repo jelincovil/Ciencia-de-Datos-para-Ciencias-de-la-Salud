@@ -58,3 +58,5 @@ Libro de Bioestadística. Universidad de Málaga. España. https://www.bioestadi
 
 Sergio Méndez y Ana Cuevas Romo. Manual introductorio al SPSS Statistics Standard Edition 22. Universidad de Celaya.
 https://www.fibao.es/media/uploads/manual_de_spss_universidad_de_celaya.pdf
+
+![plot](https://github.com/jelincovil/logos_images/blob/c255a11e1ccdacc26f22075bdcb498d72478043b/salud_deporte.jpg)
