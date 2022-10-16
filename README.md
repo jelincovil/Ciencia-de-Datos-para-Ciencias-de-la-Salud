@@ -18,7 +18,7 @@
 - 5. Inferencia sobre una población. Inferencia y comparación de poblaciones.
 - 6. Regresión lineal, polinomial y logística.
 
-**Organización de las sesiones:* 8 sesiones de 4 horas cronológicas. Se ejecutará una sesión por semana completando 32 horas cronológicas.
+**Organización de las sesiones:** 8 sesiones de 4 horas cronológicas. Se ejecutará una sesión por semana completando 32 horas cronológicas.
 
 **Requisitos**
 
